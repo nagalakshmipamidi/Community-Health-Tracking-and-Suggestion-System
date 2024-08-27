@@ -40,6 +40,7 @@ const Home = () => {
     <div className="min-h-screen flex flex-col items-center bg-gradient-to-r from-blue-50 via-purple-50 to-pink-50">
       {/* Main Content */}
       <div className="w-full max-w-6xl mx-auto mt-20 p-8 text-center">
+        <h1 className="text-5xl font-extrabold text-purple-700 mb-6">Welcome To Community Page</h1>
         <h1 className="text-5xl font-extrabold text-purple-700 mb-6">Inspire Yourself!</h1>
         <p className="text-xl text-gray-600 mb-12">
           We sweat together, we grow together. This journey's yours, but you're not alone.
